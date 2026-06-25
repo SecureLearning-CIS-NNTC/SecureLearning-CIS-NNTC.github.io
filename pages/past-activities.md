@@ -1,7 +1,8 @@
 ---
 title: "Past Activities"
 summary: "Completed activities and archive pages for the Task Force on Secure Learning."
-output: "pages/past-activities.html"
+layout: default
+permalink: /pages/past-activities.html
 ---
 
 ## Completed Activities in 2022-2023

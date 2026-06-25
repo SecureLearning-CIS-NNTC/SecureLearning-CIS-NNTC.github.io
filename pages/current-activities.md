@@ -1,7 +1,8 @@
 ---
 title: "Current Activities"
 summary: "Activities in 2025-2026."
-output: "pages/current-activities.html"
+layout: default
+permalink: /pages/current-activities.html
 ---
 
 ## Activities in 2025-2026

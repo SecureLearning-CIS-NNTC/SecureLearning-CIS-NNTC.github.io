@@ -1,7 +1,8 @@
 ---
 title: "Springer CIS Special Issue"
 summary: "Special Issue on Secure Learning in Springer Complex & Intelligent Systems."
-output: "pages/past-activities/special-issue-springer-cis.html"
+layout: default
+permalink: /pages/past-activities/special-issue-springer-cis.html
 ---
 
 ## Special Issue on Secure Learning

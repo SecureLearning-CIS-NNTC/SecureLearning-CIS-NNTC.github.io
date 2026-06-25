@@ -1,7 +1,8 @@
 ---
 title: "Task Force on Secure Learning"
 summary: "Reliable and secure machine learning for adversarial, evolving, and increasingly autonomous settings."
-output: "index.html"
+layout: default
+permalink: /
 ---
 
 ## Aim and Scope

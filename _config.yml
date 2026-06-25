@@ -1,0 +1,23 @@
+title: IEEE-CIS-NNTC-TF-SL
+description: IEEE CIS Neural Networks Technical Committee Task Force on Secure Learning
+url: "https://securelearning-cis-nntc.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - source/
+  - Gemfile
+  - Gemfile.lock
+  - scripts/
+  - vendor/
+  - vendor/bundle/
+
+nav:
+  - title: Home
+    url: /
+  - title: Current Activities
+    url: /pages/current-activities.html
+  - title: Past Activities
+    url: /pages/past-activities.html

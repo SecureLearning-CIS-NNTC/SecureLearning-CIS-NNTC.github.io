@@ -1,7 +1,8 @@
 ---
 title: "IEEE TAI Special Issue"
 summary: "Special Issue on Security and Privacy in Machine Learning."
-output: "pages/past-activities/special-issue-ieee-tai.html"
+layout: default
+permalink: /pages/past-activities/special-issue-ieee-tai.html
 ---
 
 ## IEEE Transactions on Artificial Intelligence

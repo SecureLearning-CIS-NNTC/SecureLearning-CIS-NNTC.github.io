@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.summary | default: site.description | escape }}">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {% for item in site.nav %}
+            <a class="{% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">IEEE CIS Neural Networks Technical Committee</p>
+        <h1>{{ page.title }}</h1>
+        {% if page.summary %}
+          <p class="hero-summary">{{ page.summary }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <main class="main markdown-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <span>Task Force on Secure Learning</span>
+        <span>Content maintained locally in Markdown</span>
+      </div>
+    </footer>
+  </body>
+</html>

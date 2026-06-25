@@ -1,7 +1,8 @@
 ---
 title: "IJCNN 2020 Workshop on Secure Learning"
 summary: "Tuesday, July 21, 2020, 2:00 pm to 6:20 pm UK time."
-output: "pages/past-activities/ijcnn2020-wsl.html"
+layout: default
+permalink: /pages/past-activities/ijcnn2020-wsl.html
 ---
 
 [IEEE World Congress on Computational Intelligence (WCCI 2020)](https://wcci2020.org/)
