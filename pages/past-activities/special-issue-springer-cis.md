@@ -20,6 +20,8 @@ Impact factor shown on the source page: 3.791.
 - Revised Manuscript Due: July 31, 2021
 - Decision Notification: September 30, 2021
 
+The original [submission guidelines](https://drive.google.com/file/d/1lYLQ1Abs8MdUIdRQEYq1qX4nWefB52TH/view?usp=sharing) are also archived.
+
 ## The Theme
 
 There has been growing interest in rectifying machine learning vulnerabilities and preserving privacy. Adversarial machine learning and privacy preserving have attracted tremendous attention over the past few years. The questions surrounding this space are more pressing and relevant than ever before: How can we make a system robust to novel or potentially adversarial inputs? How can machine learning systems detect and adapt to changes in the environment over time? When can we trust that a system that has performed well in the past will continue to do so in the future?

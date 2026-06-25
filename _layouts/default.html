@@ -7,13 +7,13 @@
     <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   </head>
-  <body>
+  <body class="{% if page.url == '/' %}is-home{% else %}is-subpage{% endif %}">
     <header class="site-header">
       <div class="nav-wrap">
         <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav class="site-nav" aria-label="Main navigation">
           {% for item in site.nav %}
-            <a class="{% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            <a class="{% if page.url == item.url %}active{% endif %}" {% if page.url == item.url %}aria-current="page"{% endif %} href="{{ item.url | relative_url }}">{{ item.title }}</a>
           {% endfor %}
         </nav>
       </div>
@@ -25,6 +25,13 @@
         <h1>{{ page.title }}</h1>
         {% if page.summary %}
           <p class="hero-summary">{{ page.summary }}</p>
+        {% endif %}
+        {% if page.url == '/' %}
+          <div class="hero-actions" aria-label="Primary links">
+            <a href="{{ '/pages/current-activities.html' | relative_url }}">Current Activities</a>
+            <a href="{{ '/pages/past-activities.html' | relative_url }}">Past Activities</a>
+            <a href="{{ '/pages/current-activities.html#journal-special-issues' | relative_url }}">Special Issues</a>
+          </div>
         {% endif %}
       </div>
     </section>

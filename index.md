@@ -5,6 +5,16 @@ layout: default
 permalink: /
 ---
 
+<section class="intro-panel" markdown="1">
+
+The IEEE CIS Neural Networks Technical Committee Task Force on Secure Learning brings together researchers and practitioners working on reliable, robust, private, and trustworthy machine learning systems.
+
+Our focus is on secure learning in adversarial and evolving environments, including emerging challenges introduced by increasingly autonomous AI systems.
+
+</section>
+
+<section class="content-section" markdown="1">
+
 ## Aim and Scope
 
 The goal is to build reliable and secure machine learning (ML) models that are resilient in adversarial and evolving settings, including those introduced by emerging Artificial General Intelligence (AGI).
@@ -15,35 +25,81 @@ We aim to bring together researchers from diverse fields such as reinforcement l
 
 This task force promotes recent theoretical and empirical advances in secure learning, drawing on past insights to meet the growing demands of intelligent and adaptive systems.
 
-## Task Force Chair
+</section>
 
-- **Owen Vallis**, OpenAI, USA ([owensvallis@gmail.com](mailto:owensvallis@gmail.com))
+<section class="content-section" markdown="1">
 
-## Task Force Vice-Chairs
+## Leadership
 
-- **Leo Zhang**, Griffith University, Australia ([leo.zhang@griffith.edu.au](mailto:leo.zhang@griffith.edu.au))
-- **Sherin Mathews**, US Bank, USA ([s.mathews217@gmail.com](mailto:s.mathews217@gmail.com))
+<div class="profile-feature">
+  <article class="profile-card profile-card--lead">
+    <span class="profile-role">Task Force Chair</span>
+    <strong>Owen Vallis</strong>
+    <span>OpenAI, USA</span>
+    <a href="mailto:owensvallis@gmail.com">owensvallis@gmail.com</a>
+  </article>
+</div>
+
+<div class="profile-grid profile-grid--vice">
+  <article class="profile-card">
+    <span class="profile-role">Vice-Chair</span>
+    <strong>Leo Zhang</strong>
+    <span>Griffith University, Australia</span>
+    <a href="mailto:leo.zhang@griffith.edu.au">leo.zhang@griffith.edu.au</a>
+  </article>
+  <article class="profile-card">
+    <span class="profile-role">Vice-Chair</span>
+    <strong>Sherin Mathews</strong>
+    <span>US Bank, USA</span>
+    <a href="mailto:s.mathews217@gmail.com">s.mathews217@gmail.com</a>
+  </article>
+</div>
 
 ## Task Force Members
 
-- **Catherine Huang**, Google, USA ([catherinehuanglei@gmail.com](mailto:catherinehuanglei@gmail.com))
-- **Wenjian Luo**, Harbin Institute of Technology, Shenzhen, China ([luowenjian@hit.edu.cn](mailto:luowenjian@hit.edu.cn))
-- **Huiyu (Joe) Zhou**, University of Leicester ([hz143@leicester.ac.uk](mailto:hz143@leicester.ac.uk))
-- **Tayo Obafemi-Ajayi**, Missouri State University, USA ([tayoobafemiajayi@missouristate.edu](mailto:tayoobafemiajayi@missouristate.edu))
-- **Taehong Kim**, Chungbuk National University ([taehongkim@cbnu.ac.kr](mailto:taehongkim@cbnu.ac.kr))
-- **Viet Vo**, Swinburne University of Technology ([vvo@swin.edu.au](mailto:vvo@swin.edu.au))
-- **Jinyu Tian**, Macau University of Science and Technology ([jytian@must.edu.mo](mailto:jytian@must.edu.mo))
-- **Yanjun Zhang**, University of Technology Sydney ([Yanjun.Zhang@uts.edu.au](mailto:Yanjun.Zhang@uts.edu.au))
-- **Manish Bhatt**, OWASP ([manish.bhatt13212@gmail.com](mailto:manish.bhatt13212@gmail.com))
-- **Shuren Qi**, The Chinese University of Hong Kong ([shurenqi@cuhk.edu.hk](mailto:shurenqi@cuhk.edu.hk))
-- **Wanlun Ma**, Swinburne University of Technology ([wma@swin.edu.au](mailto:wma@swin.edu.au))
-- **Celeste Fralick**, McAfee LLC, USA ([celeste_fralick@mcafee.com](mailto:celeste_fralick@mcafee.com))
-- **Yufei Chen**, City University of Hong Kong ([yufeichen8-c@my.cityu.edu.hk](mailto:yufeichen8-c@my.cityu.edu.hk))
-- **Chao Chen**, RMIT University ([chao.chen@rmit.edu.au](mailto:chao.chen@rmit.edu.au))
-- **Di Wu**, La Trobe University ([D.Wu@latrobe.edu.au](mailto:D.Wu@latrobe.edu.au))
+<div class="profile-grid">
+  <article class="profile-card"><strong>Catherine Huang</strong><span>Google, USA</span><a href="mailto:catherinehuanglei@gmail.com">catherinehuanglei@gmail.com</a></article>
+  <article class="profile-card"><strong>Wenjian Luo</strong><span>Harbin Institute of Technology, Shenzhen, China</span><a href="mailto:luowenjian@hit.edu.cn">luowenjian@hit.edu.cn</a></article>
+  <article class="profile-card"><strong>Huiyu (Joe) Zhou</strong><span>University of Leicester</span><a href="mailto:hz143@leicester.ac.uk">hz143@leicester.ac.uk</a></article>
+  <article class="profile-card"><strong>Tayo Obafemi-Ajayi</strong><span>Missouri State University, USA</span><a href="mailto:tayoobafemiajayi@missouristate.edu">tayoobafemiajayi@missouristate.edu</a></article>
+  <article class="profile-card"><strong>Taehong Kim</strong><span>Chungbuk National University</span><a href="mailto:taehongkim@cbnu.ac.kr">taehongkim@cbnu.ac.kr</a></article>
+  <article class="profile-card"><strong>Viet Vo</strong><span>Swinburne University of Technology</span><a href="mailto:vvo@swin.edu.au">vvo@swin.edu.au</a></article>
+  <article class="profile-card"><strong>Jinyu Tian</strong><span>Macau University of Science and Technology</span><a href="mailto:jytian@must.edu.mo">jytian@must.edu.mo</a></article>
+  <article class="profile-card"><strong>Yanjun Zhang</strong><span>University of Technology Sydney</span><a href="mailto:Yanjun.Zhang@uts.edu.au">Yanjun.Zhang@uts.edu.au</a></article>
+  <article class="profile-card"><strong>Manish Bhatt</strong><span>OWASP</span><a href="mailto:manish.bhatt13212@gmail.com">manish.bhatt13212@gmail.com</a></article>
+  <article class="profile-card"><strong>Shuren Qi</strong><span>The Chinese University of Hong Kong</span><a href="mailto:shurenqi@cuhk.edu.hk">shurenqi@cuhk.edu.hk</a></article>
+  <article class="profile-card"><strong>Wanlun Ma</strong><span>Swinburne University of Technology</span><a href="mailto:wma@swin.edu.au">wma@swin.edu.au</a></article>
+  <article class="profile-card"><strong>Celeste Fralick</strong><span>McAfee LLC, USA</span><a href="mailto:celeste_fralick@mcafee.com">celeste_fralick@mcafee.com</a></article>
+  <article class="profile-card"><strong>Yufei Chen</strong><span>City University of Hong Kong</span><a href="mailto:yufeichen8-c@my.cityu.edu.hk">yufeichen8-c@my.cityu.edu.hk</a></article>
+  <article class="profile-card"><strong>Chao Chen</strong><span>RMIT University</span><a href="mailto:chao.chen@rmit.edu.au">chao.chen@rmit.edu.au</a></article>
+  <article class="profile-card"><strong>Di Wu</strong><span>La Trobe University</span><a href="mailto:D.Wu@latrobe.edu.au">D.Wu@latrobe.edu.au</a></article>
+</div>
+
+</section>
+
+<section class="content-section" markdown="1">
 
 ## News
 
-- **[May 2025] Special Issue:** Launched a special issue on [Robust and Secure AI Systems](https://www.sciencedirect.com/special-issue/319241/robust-and-secure-ai-systems) in [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), inviting cutting-edge research on adversarial robustness and security (Wenjian Luo, 2025).
-- **[May 2025] Conference Leadership:** Organized and participated in special sessions on [Ethical AI](https://2025.ijcnn.org/authors/special-sessions) at [IJCNN 2025](https://2025.ijcnn.org/), and served as a panelist on Responsible AI for [CAI 2025](https://cai.ieee.org/2025/) (Catherine Huang, Tayo Obafemi-Ajayi).
-- **[May 2025] Keynote Address:** Delivered a keynote on advances in [secure machine learning](https://www.icipai.org/Speakers) at [ICIPAI 2025](https://www.icipai.org/), Changchun, China (Huiyu Zhou).
+<div class="news-list">
+  <article class="news-item">
+    <span class="date">May 2025</span>
+    <h3>Special Issue</h3>
+    <p>Launched a special issue on <a href="https://www.sciencedirect.com/special-issue/319241/robust-and-secure-ai-systems">Robust and Secure AI Systems</a> in <a href="https://www.sciencedirect.com/journal/applied-soft-computing">Applied Soft Computing</a>, inviting cutting-edge research on adversarial robustness and security.</p>
+    <p class="note">Wenjian Luo, 2025</p>
+  </article>
+  <article class="news-item">
+    <span class="date">May 2025</span>
+    <h3>Conference Leadership</h3>
+    <p>Organized and participated in special sessions on <a href="https://2025.ijcnn.org/authors/special-sessions">Ethical AI</a> at <a href="https://2025.ijcnn.org/">IJCNN 2025</a>, and served as a panelist on Responsible AI for <a href="https://cai.ieee.org/2025/">CAI 2025</a>.</p>
+    <p class="note">Catherine Huang, Tayo Obafemi-Ajayi</p>
+  </article>
+  <article class="news-item">
+    <span class="date">May 2025</span>
+    <h3>Keynote Address</h3>
+    <p>Delivered a keynote on advances in <a href="https://www.icipai.org/Speakers">secure machine learning</a> at <a href="https://www.icipai.org/">ICIPAI 2025</a>, Changchun, China.</p>
+    <p class="note">Huiyu Zhou</p>
+  </article>
+</div>
+
+</section>
