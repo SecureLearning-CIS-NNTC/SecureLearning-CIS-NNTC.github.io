@@ -34,18 +34,18 @@ This task force promotes recent theoretical and empirical advances in secure lea
 <div class="profile-feature">
   <article class="profile-card profile-card--lead">
     <span class="profile-role">Task Force Chair</span>
-    <strong>Owen Vallis</strong>
-    <span>OpenAI, USA</span>
-    <a href="mailto:owensvallis@gmail.com">owensvallis@gmail.com</a>
+    <strong>Leo Zhang</strong>
+    <span>Griffith University, Australia</span>
+    <a href="mailto:leo.zhang@griffith.edu.au">leo.zhang@griffith.edu.au</a>
   </article>
 </div>
 
 <div class="profile-grid profile-grid--vice">
   <article class="profile-card">
     <span class="profile-role">Vice-Chair</span>
-    <strong>Leo Zhang</strong>
-    <span>Griffith University, Australia</span>
-    <a href="mailto:leo.zhang@griffith.edu.au">leo.zhang@griffith.edu.au</a>
+    <strong>Owen Vallis</strong>
+    <span>OpenAI, USA</span>
+    <a href="mailto:owensvallis@gmail.com">owensvallis@gmail.com</a>
   </article>
   <article class="profile-card">
     <span class="profile-role">Vice-Chair</span>
